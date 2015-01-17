@@ -1,1 +1,12 @@
-Explain what git clone does, in your own words?
+Answer
+========
+git clone clones a repository into a new directory. 
+
+
+The following clone was used for this challenge. I first created a repository on the github and then cloned in on my local drive. 
+
+git clone https://github.com/RizAli/Octocat-Challenge.git
+
+
+ref: 
+http://git-scm.com/docs/git-clone
