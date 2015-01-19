@@ -7,6 +7,6 @@ The master branch is already uploaded on the github website whereas the answers 
 When I tried to use "git push", it popped up an error
 fatal: The current branch answers has no upstream branch. 
 
-I then had to use "git push answers" to upstream the branch on the github website.
+I then had to use "git push origin answers" to upstream the branch on the github website.
 
 
